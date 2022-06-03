@@ -1,0 +1,21 @@
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csprojAssemblyReference.cache
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
+Z:\13F -21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.AssemblyReference.cache
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Zoltán\Desktop\Cuccok\Code\OKJ21-22\C#\RajzProgram\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
